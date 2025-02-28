@@ -41,7 +41,7 @@
     PrivateData = @{
         PSData = @{
             # Tags applied to this module
-            Tags = @('CodeSigning', 'Azure', 'KeyVault', 'Security', 'NBB')
+            Tags = @('CodeSigning', 'Azure', 'KeyVault', 'Security')
 
             # A URL to the main website for this project.
             ProjectUri = ''  # Add your project URI if applicable
